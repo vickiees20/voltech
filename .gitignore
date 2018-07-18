@@ -1,0 +1,47 @@
+#IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.springBeans
+.metadata
+.settings
+*.launch
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Java
+*.jar
+*.war
+*.ear
+*.class
+hs_err_pid*
+
+# Ruby
+.bundle/
+gems/
+
+# JavaScript
+bower_components/
+node_modules/
+
+# Genie
+drivers/
+*.err
+*.out
+
+# Binaries, Logs and results
+*.jpg
+AppGenaration*.csv
+*.log
